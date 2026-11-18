@@ -69,3 +69,26 @@ h3 {
     color: #6b7a6b;
     margin-top: 12px;
 }
+
+.encabezado {
+    text-align: center;
+    padding: 20px 0 10px;
+}
+
+.encabezado h1 {
+    margin-bottom: 4px;
+}
+
+.encabezado p {
+    color: #5b7a5b;
+    margin-top: 0;
+}
+
+.pie {
+    margin-top: 40px;
+    padding: 20px 0;
+    border-top: 2px solid #a5d6a7;
+    text-align: center;
+    color: #6b7a6b;
+    font-size: 0.9rem;
+}
