@@ -121,3 +121,9 @@ h3 {
     text-align: center;
     font-weight: bold;
 }
+
+.total {
+    font-weight: bold;
+    color: #1b5e20;
+    margin: 0 0 12px;
+}
