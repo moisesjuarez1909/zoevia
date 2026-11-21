@@ -1,4 +1,4 @@
-const NUMERO_WHATSAPP = "50557976300";
+const NUMERO_WHATSAPP = "50576244275";
 
 const tarjetas = document.querySelectorAll(".tarjeta");
 
